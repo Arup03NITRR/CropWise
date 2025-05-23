@@ -32,7 +32,7 @@ Follow these steps to set up CropWise on your local machine:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/cropwise.git
+git clone https://github.com/Arup03NITRR/CropWise.git
 cd cropwise
 ```
 ### 2. Create a Virtual Environment
@@ -60,7 +60,4 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 ## 💻 Output
-<video width="640" height="360" controls>
-  <source src="CropWise-Working.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+📌 Check out the live demo post on [LinkedIn](https://www.linkedin.com/posts/arup-paul-963810194_agritech-deeplearning-computervision-activity-7331680102612692993-9S70?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAC2utlsBN0vjeA-294JY4j4XIxX0_K8moz0)
